@@ -1,0 +1,23 @@
+{
+  "name": "imdb-crawly",
+  "version": "1.0.0",
+  "description": "imdb-crawly ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eyalbenivri/imdb-crawly.git"
+  },
+  "author": "Eyal Ben Ivri <eyalbenivri@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyalbenivri/imdb-crawly/issues"
+  },
+  "homepage": "https://github.com/eyalbenivri/imdb-crawly",
+  "dependencies": {
+    "htmlparser": "^1.7.7",
+    "q": "^1.1.2"
+  }
+}
